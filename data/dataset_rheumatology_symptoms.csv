@@ -1,0 +1,51 @@
+joint_pain,morning_stiffness,swollen_joints,fatigue,skin_rash,dry_eyes,lower_back_pain,psoriasis,mouth_ulcers,dry_mouth,disease
+1,1,1,1,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,1,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,0,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,1,0,0,0,0,1,0,Rheumatoid Arthritis
+1,1,0,1,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,1,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,1,0,0,0,0,1,0,Rheumatoid Arthritis
+1,1,0,1,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,0,0,0,0,0,0,0,Rheumatoid Arthritis
+1,1,1,1,0,0,0,0,0,0,Rheumatoid Arthritis
+1,0,0,1,1,0,0,0,1,0,Systemic Lupus Erythematosus
+1,0,0,1,1,0,0,0,0,0,Systemic Lupus Erythematosus
+1,0,0,1,1,0,0,0,1,0,Systemic Lupus Erythematosus
+1,0,1,1,1,0,0,0,0,0,Systemic Lupus Erythematosus
+1,0,0,1,1,0,0,0,0,0,Systemic Lupus Erythematosus
+0,0,0,1,1,0,0,0,1,0,Systemic Lupus Erythematosus
+1,0,1,1,1,0,0,0,1,0,Systemic Lupus Erythematosus
+1,0,0,1,1,0,0,0,0,0,Systemic Lupus Erythematosus
+0,0,0,1,1,0,0,0,1,0,Systemic Lupus Erythematosus
+1,0,0,1,1,0,0,0,0,0,Systemic Lupus Erythematosus
+1,1,0,0,0,0,1,0,0,0,Ankylosing Spondylitis
+1,1,0,1,0,0,1,0,0,0,Ankylosing Spondylitis
+0,1,0,1,0,0,1,0,0,0,Ankylosing Spondylitis
+1,1,0,0,0,0,1,0,0,0,Ankylosing Spondylitis
+1,1,0,1,0,0,1,0,0,0,Ankylosing Spondylitis
+0,1,0,0,0,0,1,0,0,0,Ankylosing Spondylitis
+1,1,0,1,0,0,1,0,0,0,Ankylosing Spondylitis
+1,1,0,0,0,0,1,0,0,0,Ankylosing Spondylitis
+1,1,0,1,0,0,1,0,0,0,Ankylosing Spondylitis
+0,1,0,1,0,0,1,0,0,0,Ankylosing Spondylitis
+1,0,1,0,0,0,0,1,0,0,Psoriatic Arthritis
+1,1,1,0,0,0,0,1,0,0,Psoriatic Arthritis
+1,0,1,1,0,0,0,1,0,0,Psoriatic Arthritis
+1,1,1,0,0,0,0,1,0,0,Psoriatic Arthritis
+1,0,1,0,0,0,0,1,0,0,Psoriatic Arthritis
+1,1,0,1,0,0,0,1,0,0,Psoriatic Arthritis
+1,0,1,1,0,0,0,1,0,0,Psoriatic Arthritis
+1,1,1,0,0,0,0,1,0,0,Psoriatic Arthritis
+1,0,1,1,0,0,0,1,0,0,Psoriatic Arthritis
+1,1,0,0,0,0,0,1,0,0,Psoriatic Arthritis
+0,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
+0,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
+1,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
+0,0,0,1,0,1,0,0,1,1,Sjögren Syndrome
+1,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
+0,0,0,1,0,1,0,0,1,1,Sjögren Syndrome
+1,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
+0,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
+1,0,0,1,0,1,0,0,1,1,Sjögren Syndrome
+0,0,0,1,0,1,0,0,0,1,Sjögren Syndrome
