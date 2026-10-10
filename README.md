@@ -58,8 +58,8 @@ rheumatology-disease-prediction/
 │   └── dataset_rheumatology_symptoms.CSV
 │
 ├── screenshots/
-│   ├── Screenshot1.PNG
-│   └── Screenshot2.PNG
+│   ├── Screenshot1.png
+│   └── Screenshot2.png
 │
 ├── src/
 │   └── main.py
